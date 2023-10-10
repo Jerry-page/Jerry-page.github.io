@@ -2,7 +2,7 @@
 % first names in the bibliography as "Firstname Lastname" rather than
 % "F. Lastname".
 %
-% Jonathan T. Barron, 12/5/2018, jonbarron@gmail.com
+% Jiarui LI(李佳睿), 10/11/2023, Ljr20021026@126.com
 
 % ---------------------------------------------------------------
 %
