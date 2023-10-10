@@ -1,1 +1,1 @@
-This is the source code to Jon Barron's public academic website: https://jonbarron.info/. Feel free to clone this code for your own personal use.
+由于自己希望能够制作一个个人的学术主页，但是还没有购买域名，所以暂时把博客关闭了，借用博客的域名来搭建自己的学术主页
