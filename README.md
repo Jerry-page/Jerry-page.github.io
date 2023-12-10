@@ -1,1 +1,1 @@
-由于自己希望能够制作一个个人的学术主页，但是还没有购买域名，所以暂时把博客关闭了，借用博客的域名来搭建自己的学术主页
+This repository is for Jiarui's academic page. Welcome everyone's visit!
